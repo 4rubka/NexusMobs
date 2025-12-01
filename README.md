@@ -122,7 +122,7 @@ MIT License - Free to use and modify
 ---
 
 **Version:** 3.0.0  
-**Release Date:** November 30, 2024  
+**Release Date:** December 1, 2025  
 **Minecraft Version:** 1.21+  
 **API Version:** Paper/Purpur
 
